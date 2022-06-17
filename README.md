@@ -1,6 +1,5 @@
 <img alt="Crown-Clothing Logo" width="36px" 
-     src="https://github.com/adam-ridhwan/programming-logos/blob/main/crown-clothing-logo.svg" /> 
-# CRWN CLOTHING 
+     src="https://github.com/adam-ridhwan/programming-logos/blob/main/crown-clothing-logo.svg" /> # CRWN CLOTHING 
 
 <b>This project is an e-commerce website created with React with Google's firebase as the database. It is currently ongoing.</b>
 
