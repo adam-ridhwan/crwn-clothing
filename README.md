@@ -1,4 +1,4 @@
-<img align="left" alt="Crown-Clothing Logo" width="36px" 
+<img alt="Crown-Clothing Logo" width="36px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/crown-clothing-logo.svg" /> 
 # CRWN CLOTHING 
 
