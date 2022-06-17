@@ -12,7 +12,7 @@ React, HTML, SCSS, JavaScript
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[[https://github.com/adam-ridhwan/repository/programming-logos/master/sass.png|alt=sass]]
+[[https://github.com/adam-ridhwan/programming-logos/blob/main/sass.svg]]
 
 <br>
 <br>
