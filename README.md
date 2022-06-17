@@ -6,7 +6,8 @@ Current state of project can be seen here: https://comfy-caramel-721465.netlify.
 
 Technologies: -
 
-React, HTML, CSS, JavaScript, SCSS
+FrontEnd: React, HTML, CSS, JavaScript, SCSS
+BackEnd/Database: Firebase
 
 <img align="left" alt="React" width="26px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/react.svg" />
