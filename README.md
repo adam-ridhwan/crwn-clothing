@@ -11,6 +11,9 @@ FrontEnd: React, HTML, CSS, JavaScript, SCSS
 BackEnd/Database: Firebase
 
 <img align="left" alt="React" width="26px" 
+     src="https://github.com/adam-ridhwan/programming-logos/blob/main/visual-studio-code.svg" />
+
+<img align="left" alt="React" width="26px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/react.svg" />
 
 <img align="left" alt="HTML5" width="26px"
