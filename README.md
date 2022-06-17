@@ -16,6 +16,8 @@ FrontEnd: React, HTML, CSS, JavaScript, SCSS
 
 BackEnd/Database: Firebase
 
+Host: Netlify
+
 <img align="left" alt="VScode" width="26px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/visual-studio-code.svg" />
 
