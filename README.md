@@ -20,5 +20,12 @@ React, HTML, CSS, JavaScript, SCSS
 <img align="left" alt="JavaScript" width="26px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/javascript.svg" />
 
-<img align="left" alt="React" width="26px" 
+<img align="left" alt="Sass" width="26px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/sass.svg">
+     
+<img align="left" alt="Firebase" width="26px" 
+     src="https://github.com/adam-ridhwan/programming-logos/blob/main/firebase.svg">
+     
+<img align="left" alt="Netlify" width="26px" 
+     src="https://github.com/adam-ridhwan/programming-logos/blob/main/netlify.svg">
+
