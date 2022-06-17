@@ -2,6 +2,8 @@
 
 <b>This project is an e-commerce website created with React with Google's firebase as the database. It is currently ongoing.</b>
 
+Current state of project can be seen here: https://comfy-caramel-721465.netlify.app/
+
 Technologies: -
 
 React, HTML, SCSS, JavaScript
