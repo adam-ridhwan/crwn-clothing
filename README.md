@@ -1,4 +1,5 @@
-# CRWN CLOTHING 
+<img align="left" alt="Crown-Clothing Logo" width="36px" 
+     src="https://github.com/adam-ridhwan/programming-logos/blob/main/crown-clothing-logo.svg" /> # CRWN CLOTHING 
 
 <b>This project is an e-commerce website created with React with Google's firebase as the database. It is currently ongoing.</b>
 
@@ -10,7 +11,7 @@ FrontEnd: React, HTML, CSS, JavaScript, SCSS
 
 BackEnd/Database: Firebase
 
-<img align="left" alt="React" width="26px" 
+<img align="left" alt="VScode" width="26px" 
      src="https://github.com/adam-ridhwan/programming-logos/blob/main/visual-studio-code.svg" />
 
 <img align="left" alt="React" width="26px" 
